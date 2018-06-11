@@ -1,2 +1,2 @@
 # OkReDemo
-One Retrofit demo using GitHub API.
+A Retrofit demo using GitHub API.
